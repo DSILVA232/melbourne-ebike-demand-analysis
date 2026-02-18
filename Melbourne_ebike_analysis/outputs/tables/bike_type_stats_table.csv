@@ -1,0 +1,3 @@
+bike_type,trip_count,avg_duration,std_duration,min_duration,median_duration,max_duration,avg_distance,std_distance,min_distance,max_distance
+Electric,3055,14.49950900163666,11.416478819053674,0.1,11.4,90.9,3.945191489361702,2.762892720145258,0.02,20.44
+Standard,1945,14.80236503856041,11.368367444551238,0.1,12.3,94.4,4.042699228791774,2.7868262374797914,0.03,17.38
